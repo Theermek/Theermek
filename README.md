@@ -4,22 +4,33 @@
 <h3 align="center">A frontend developer from Kyrgyz Republic</h3>
 
 ---
-#### :computer: Tech Steck:
+#### :computer: Tech Stack:
 
-![Flutter](https://img.shields.io/badge/React-5FD6F5/?style=for-the-badge&logo=react&logoColor=white&color=5FD6F5)
-![Flutter](https://img.shields.io/badge/Redux-7547BD/?style=for-the-badge&logo=redux&logoColor=white&color=7547BD)
-![Flutter](https://img.shields.io/badge/JavaScript-F4E018/?style=for-the-badge&logo=javascript&logoColor=white&color=F4E018)
-![Flutter](https://img.shields.io/badge/TypeScript-067ACB/?style=for-the-badge&logo=TypeScript&logoColor=white&color=067ACB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/HTML-E54C24/?style=for-the-badge&logo=html5&logoColor=white&color=E54C24)
 ![Flutter](https://img.shields.io/badge/CSS-1271B3/?style=for-the-badge&logo=CSS3&logoColor=white&color=1271B3)
 ![Flutter](https://img.shields.io/badge/Scss-CF649B/?style=for-the-badge&logo=scss&logoColor=white&color=CF649B)
-![Flutter](https://img.shields.io/badge/Bootstrap-730FF7/?style=for-the-badge&logo=Bootstrap&logoColor=white&color=730FF7)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 #### :hammer: Tools:
 ![Flutter](https://img.shields.io/badge/GIT-EB4F34/?style=for-the-badge&logo=GIT&logoColor=white&color=EB4F34)
 ![Flutter](https://img.shields.io/badge/Figma-340D74/?style=for-the-badge&logo=Figma&logoColor=white&color=340D74)
 ![Flutter](https://img.shields.io/badge/Photoshop-CF649B/?style=for-the-badge&logo=Photoshop&logoColor=white&color=CF649B)
 ![Flutter](https://img.shields.io/badge/VS_code-0C7ACB/?style=for-the-badge&logo=VScode&logoColor=white&color=0C7ACB)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+
+#### 🫂: Forums
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Theermek&show_icons=true&locale=en&layout=compact" alt="Theermek" /></p>
 
