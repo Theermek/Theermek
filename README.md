@@ -11,7 +11,7 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23039BE5)
 ![Flutter](https://img.shields.io/badge/HTML-E54C24/?style=for-the-badge&logo=html5&logoColor=white&color=E54C24)
 ![Flutter](https://img.shields.io/badge/CSS-1271B3/?style=for-the-badge&logo=CSS3&logoColor=white&color=1271B3)
 ![Flutter](https://img.shields.io/badge/Scss-CF649B/?style=for-the-badge&logo=scss&logoColor=white&color=CF649B)
@@ -29,7 +29,7 @@
 #### 🫂: Forums
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=grey)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Theermek&show_icons=true&locale=en&layout=compact" alt="Theermek" /></p>
