@@ -18,31 +18,31 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+    
+  #### :hammer: Tools:
+  ![Flutter](https://img.shields.io/badge/GIT-EB4F34/?style=for-the-badge&logo=GIT&logoColor=white&color=EB4F34)
+  ![Flutter](https://img.shields.io/badge/Figma-340D74/?style=for-the-badge&logo=Figma&logoColor=white&color=340D74)
+  ![Flutter](https://img.shields.io/badge/Photoshop-CF649B/?style=for-the-badge&logo=Photoshop&logoColor=white&color=CF649B)
+  ![Flutter](https://img.shields.io/badge/VS_code-0C7ACB/?style=for-the-badge&logo=VScode&logoColor=white&color=0C7ACB)
+  ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+  
+  #### 🫂: Forums
+  ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+  ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+  ![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=grey)
+  ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-#### :hammer: Tools:
-![Flutter](https://img.shields.io/badge/GIT-EB4F34/?style=for-the-badge&logo=GIT&logoColor=white&color=EB4F34)
-![Flutter](https://img.shields.io/badge/Figma-340D74/?style=for-the-badge&logo=Figma&logoColor=white&color=340D74)
-![Flutter](https://img.shields.io/badge/Photoshop-CF649B/?style=for-the-badge&logo=Photoshop&logoColor=white&color=CF649B)
-![Flutter](https://img.shields.io/badge/VS_code-0C7ACB/?style=for-the-badge&logo=VScode&logoColor=white&color=0C7ACB)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+  <div align="left">
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Theermek&show_icons=true&locale=en&layout=compact" alt="Theermek" />
+  </div>
 
-#### 🫂: Forums
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Codewars](https://img.shields.io/badge/Codewars-000000?style=for-the-badge&logo=codewars&logoColor=grey)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Theermek&show_icons=true&locale=en&layout=compact" alt="Theermek" /></p>
 
-<p align="right">
-  <p>
-    <a href="https://t.me/Theermek"><img src="https://img.shields.io/badge/Ermek%20Akelov-41454a?&logo=telegram&logoColor=ffffff%22"></a>
-  </p>
-  <p>
-    <a href="https://vk.com/eakelov"><img src="https://img.shields.io/badge/Ermek%20Akelov-4680C2?logo=vk&logoColor=ffffff%22"></a>
-  </p>
-  <p>
-    <a href="mailto:akelov.ermek@gmail.com"><img src="https://img.shields.io/badge/akelov-ea4335?&logo=gmail&logoColor=ffffff"></a>
-  </p>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Theermek&label=Profile%20views&color=0e75b6&style=flat" alt="Theermek"/></p>
-</p>
+<div align="center">
+  <h3>My Socials</h3>
+    <a href="https://t.me/Theermek"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/ermek-akelov/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:akelov.ermek@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+  <p mt-5> <img src="https://komarev.com/ghpvc/?username=Theermek&label=Profile%20views&color=0e75b6&style=flat" alt="Theermek"/></p>
+</div>
